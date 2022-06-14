@@ -1,5 +1,5 @@
 Pregnancies,Glucose,BloodPressure,SkinThickness,BMI,DiabetesPedigreeFunction,Age,Region,Outcome
-6,148,medium,35,,33.6,0.627,50,C,1
+6,148,medium,35,33.6,0.627,50,C,1
 1,85,medium,29,,26.6,0.351,31,B,0
 8,183,medium,,,23.3,,32,D,1
 1,89,medium,23,94,28.1,0.167,21,B,0
